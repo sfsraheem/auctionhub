@@ -16,7 +16,7 @@ const Sorry = () => {
           style={{ color: "#ed2b64" }}
         ></i>
         <p class="main-content__body" data-lead-id="main-content-body">
-          You was not successfully!
+          Payment was not successfully!
         </p>
       </div>
     </>
